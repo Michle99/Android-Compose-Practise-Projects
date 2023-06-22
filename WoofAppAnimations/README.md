@@ -33,4 +33,4 @@ Getting Started
 
 # Picture
 
-<img src="image/README/1687460072286.png" width="100" />
+<img src="image/README/1687460072286.png" width="300" />
