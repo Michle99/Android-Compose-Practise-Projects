@@ -33,4 +33,4 @@ Getting Started
 
 # Picture
 
-![1687460072286](image/README/1687460072286.png)
+![<img src="image/README/1687460072286.png" width="100" />](image/README/1687460072286.png)
