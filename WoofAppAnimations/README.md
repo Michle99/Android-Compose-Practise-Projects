@@ -31,6 +31,6 @@ Getting Started
 2. Open the project in Android Studio
 3. Run the project
 
-# Picture
+# WoofApp Screenshot
 
 <img src="image/README/1687460072286.png" width="300" />
